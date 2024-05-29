@@ -40,6 +40,7 @@
     <p v-bind:style="hello">hello all this is jaikumar from trichy</p>
     <p v-bind:style="[danger]">sakthi vishwanathan from madurai</p>
   </div>
+  <div>{{ 10 + 5 }}</div>
 </template>
 <script>
 export default {
